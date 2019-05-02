@@ -1,0 +1,24 @@
+server:
+  port: 8763
+
+eureka:
+  instance:
+    hostname: localhost
+    port: 8761
+  client:
+    registerWithEureka: true
+    fetchRegistry: true
+    serviceUrl:
+      defaultZone: http://${eureka.instance.hostname}:${eureka.instance.port}/eureka/
+  server:
+    wait-time-in-ms-when-sync-empty: 3000
+
+zuul:
+  sensitiveHeaders: Cookie,Set-Cookie
+  host:
+    max-total-connections: 10000
+    max-per-route-connections: 50
+
+ribbon:
+  eureka:
+    enabled: true

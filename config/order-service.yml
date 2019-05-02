@@ -1,0 +1,21 @@
+server:
+  port: 0
+
+eureka:
+  instance:
+    hostname: localhost
+    port: 8761
+  client:
+    registerWithEureka: true
+    fetchRegistry: false
+    serviceUrl:
+      defaultZone: http://${eureka.instance.hostname}:${eureka.instance.port}/eureka/
+  server:
+    wait-time-in-ms-when-sync-empty: 3000
+
+authserver:
+  hostname: http://localhost:8762
+security:
+  oauth2:
+    resource:
+      userInfoUri: ${authserver.hostname}/user
