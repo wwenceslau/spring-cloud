@@ -18,8 +18,8 @@ security:
         client:
             access-token-validity-seconds: 1800
             authorized-grant-types: password,refresh_token
-            client-id: coderef
-            client-secret: $2a$10$p9Pk0fQNAQSesI4vuvKA0OZanDD2
+            client-id: springref
+            client-secret: jY(I6;L%n-o@q9vHeA^xEQ_2hm)JtZ1cCp=r
             resource-ids: resources
             scope: read,write
 
