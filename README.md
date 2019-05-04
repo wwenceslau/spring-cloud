@@ -5,4 +5,4 @@ A arquitetura para o projeto de demonstração.
 
 ![Arquitetura do Projeto](https://github.com/wwenceslau/spring-cloud/blob/master/docs/Spring%20Cloud.png)
 
-Para maiores detalhes, verifique a documentação completa do projeto na wiki desse repositório.
+Para maiores detalhes, verifique a documentação completa do projeto na wiki (https://github.com/wwenceslau/spring-cloud/wiki/Spring-Cloud-Demonstra%C3%A7%C3%A3o), desse repositório.
