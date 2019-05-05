@@ -11,4 +11,4 @@ Neste projeto estaremos demonstrando como construir nas nuvens as seguintes apli
 
 Veremos como fazer as configurações básicas para que essas aplicações trabalhem em conjunto trazendo resiliência, confiabilidade e coordenação aos seus micros serviços. 
 
-[Ir para a página de demonstração](https://github.com/wwenceslau/spring-cloud/wiki/Spring-Cloud-Demonstra%C3%A7%C3%A3o)
+[Ir para as páginas da wiki](https://github.com/wwenceslau/spring-cloud/wiki/Spring-Cloud---Objetivo)
