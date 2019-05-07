@@ -3,7 +3,7 @@ Projeto que demonstra como construir nas nuvens um conjunto de aplicações util
 
 ![Arquitetura do Projeto](https://github.com/wwenceslau/spring-cloud/blob/master/docs/Spring%20Cloud.png)
 
-Neste projeto estaremos demonstrando como construir as seguintes aplicações:
+Neste projeto estamos demonstrando como construir as seguintes aplicações:
 1. Servidor de configurações;
 2. Servidor de Registro e Descoberta Eureka;
 3. Servidor de Autorização e Autenticação OAuth2;
