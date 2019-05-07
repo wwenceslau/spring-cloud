@@ -3,12 +3,12 @@ Projeto que demonstra como construir nas nuvens um conjunto de aplicações util
 
 ![Arquitetura do Projeto](https://github.com/wwenceslau/spring-cloud/blob/master/docs/Spring%20Cloud.png)
 
-Neste projeto estamos demonstrando como construir as seguintes aplicações:
+Construiremos as seguintes aplicações:
 1. Servidor de configurações;
 2. Servidor de Registro e Descoberta Eureka;
 3. Servidor de Autorização e Autenticação OAuth2;
 4. Servidor de Proxy Zuul.
 
-Veremos como fazer as configurações básicas para que essas aplicações trabalhem em conjunto trazendo resiliência, confiabilidade e coordenação aos seus microsserviços. 
+Veremos, ainda, como fazer as configurações básicas para que essas aplicações trabalhem em conjunto trazendo resiliência, confiabilidade e coordenação aos seus microsserviços. 
 
 [Ir para as páginas da wiki](https://github.com/wwenceslau/spring-cloud/wiki/Spring-Cloud---Objetivo)
