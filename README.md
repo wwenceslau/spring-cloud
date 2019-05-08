@@ -1,5 +1,5 @@
 # Spring Cloud
-Projeto criado para estudos que demonstra como construir na nuvem um conjunto de aplicações utilizando o **Spring Cloud**, que simplifica a arquitetura distribuída no estilo de microsserviços, implementando comprovados padrões arquiteturais! 
+Projeto criado para estudos que demonstra como construir, na nuvem, um conjunto de aplicações utilizando o **Spring Cloud**, que simplifica a arquitetura distribuída no estilo de microsserviços, implementando comprovados padrões arquiteturais! 
 
 ![Arquitetura do Projeto](https://github.com/wwenceslau/spring-cloud/blob/master/docs/Spring%20Cloud.png)
 
